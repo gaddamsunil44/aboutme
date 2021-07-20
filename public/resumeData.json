@@ -1,0 +1,106 @@
+{
+  "main": {
+    "name":"G A SUNIL KUMAR",
+    "description":"I am a web development engineer",
+    "image":"img1.JPG",
+    "bio":" graduate Software Engineer with a demonstrated history of working in the internet industry. Skilled in Full stack web development. Strong engineering professional with a Bachelor of Technology focussed in Computer Science",
+    "contactmessage":"",
+    "email": "gaddamsunil44@gmail.com",
+    "phone": "",
+    "github":"https://github.com/gaddamsunil44",
+    "project":"",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/gaddam-abraham-sunil-kumar-3795517a",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/gaddamsunil44",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Top Skills",
+    "education":[
+      {
+        "school":"",
+        "degree":"",
+        "graduated":"",
+        "description":""
+      },
+      {
+        "school":"",
+        "degree":"",
+        "graduated":"",
+        "description":""
+      }
+    ],
+    "":[
+      {
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":""
+      },
+      {
+        "company":"",
+        "title":"",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"50%"
+      },
+      {
+        "name":"Html & Css",
+        "level":"50%"
+      },
+      {
+        "name":"React Js",
+        "level":"50%"
+      },
+      {
+        "name":"React Native",
+        "level":"50%"
+      },
+      {
+        "name":"Angular",
+        "level":"50%"
+      },
+      {
+        "name":"Node Js",
+        "level":"50%"
+      },
+      {
+        "name":"Databases",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"hotel managment system",
+        "category":"developed a hotel reservation app",
+       
+      },
+      {
+        "title":"photo accesing and sharing platform",
+        "category":"designed a app where photos can be shared and acess",
+        
+      }
+    ]
+  }
+}
